@@ -36,8 +36,4 @@ To gain further insights into the most frequently mentioned words in positive re
 To gain further insights into the most frequently mentioned words in negative reviews, we generate a separate word cloud for reviews with a higher negative sentiment score than positive sentiment score.
 
 **Summary and Future Work**
-This project provides valuable insights into user opinions on TikTok by performing sentiment analysis and visualizing key themes. Future work could include:
-
-**Further Analysis**: Deep dive into specific aspects mentioned in positive and negative reviews.
-**Time-Series Analysis**: Analyze how sentiment changes over time.
-**Comparison with Competitors**: Compare sentiment analysis results with reviews of competing apps.
+This project provides valuable insights into user opinions on TikTok by performing sentiment analysis and visualizing key themes.
